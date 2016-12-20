@@ -1,4 +1,4 @@
-# app.cr
+# app.cr [![Build Status](https://travis-ci.org/maiha/app.cr.svg?branch=master)](https://travis-ci.org/maiha/app.cr)
 
 Private shards collection to require at once
 
