@@ -8,6 +8,7 @@ Private shards collection to require at once
 dependencies:
   app:
     github: maiha/app.cr
+    version: 0.2.1
 ```
 
 ## Usage
@@ -19,7 +20,7 @@ require "app"
 works as same as
 
 ```crystal
-require "ext"
+require "core-ext"
 require "try"
 require "opts"
 require "shard"

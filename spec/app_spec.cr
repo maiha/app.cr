@@ -1,4 +1,6 @@
-# Dependencies
+require "./spec_helper"
+
+
 require "core-ext"
 require "try"
 require "opts"
