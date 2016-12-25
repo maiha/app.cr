@@ -2,13 +2,15 @@
 
 Private shards collection to require at once
 
+- crystal: 0.20.3
+
 ## Install
 
 ```yaml
 dependencies:
   app:
     github: maiha/app.cr
-    version: 0.3.0
+    version: 0.3.1
 ```
 
 ## Usage
