@@ -1,5 +1,5 @@
 name: app
-version: 0.3.2
+version: 0.3.3
 
 authors:
   - maiha <maiha@wota.jp>
@@ -15,11 +15,7 @@ dependencies:
 
   opts:
     github: maiha/opts.cr
-    version: 0.2.0
-
-  shard:
-    github: maiha/shard.cr
-    version: 0.1.2
+    version: 0.2.1
 
   toml-config:
       github: maiha/toml-config.cr
