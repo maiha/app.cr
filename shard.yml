@@ -1,5 +1,5 @@
 name: app
-version: 0.3.3
+version: 0.3.4
 
 authors:
   - maiha <maiha@wota.jp>
@@ -7,7 +7,7 @@ authors:
 dependencies:
   try:
     github: maiha/try.cr
-    version: 0.2.2
+    version: 0.3.0
 
   core-ext:
     github: maiha/core-ext.cr
