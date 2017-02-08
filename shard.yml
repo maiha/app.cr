@@ -1,5 +1,5 @@
 name: app
-version: 0.3.5
+version: 0.3.6
 
 authors:
   - maiha <maiha@wota.jp>
@@ -15,7 +15,7 @@ dependencies:
 
   opts:
     github: maiha/opts.cr
-    version: 0.2.2
+    version: 0.2.3
 
   toml-config:
       github: maiha/toml-config.cr

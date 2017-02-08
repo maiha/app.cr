@@ -10,7 +10,7 @@ Private shards collection to require at once
 dependencies:
   app:
     github: maiha/app.cr
-    version: 0.3.5
+    version: 0.3.6
 ```
 
 ## Usage
