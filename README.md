@@ -1,8 +1,8 @@
 # app.cr [![Build Status](https://travis-ci.org/maiha/app.cr.svg?branch=master)](https://travis-ci.org/maiha/app.cr)
 
-Private shards collection to require at once
+Private composite shards to build application easily.
 
-- crystal: 0.22.0
+- crystal: 0.26.1
 
 ## Install
 
@@ -10,7 +10,7 @@ Private shards collection to require at once
 dependencies:
   app:
     github: maiha/app.cr
-    version: 0.4.4
+    version: 0.5.0
 ```
 
 ## Usage

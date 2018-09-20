@@ -1,7 +1,5 @@
 name: app
-version: 0.4.4
-
-crystal: 0.22.0
+version: 0.5.0
 
 authors:
   - maiha <maiha@wota.jp>
@@ -13,14 +11,14 @@ dependencies:
 
   core-ext:
     github: maiha/core-ext.cr
-    version: ">= 0.2.0"
+    version: ">= 0.3.0"
 
   opts:
     github: maiha/opts.cr
-    version: ">= 0.4.4"
+    version: ">= 0.6.0"
 
   toml-config:
       github: maiha/toml-config.cr
-      version: ">= 0.3.0"
+      version: ">= 0.3.2"
 
 license: MIT
